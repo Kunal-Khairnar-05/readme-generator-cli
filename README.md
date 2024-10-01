@@ -43,7 +43,9 @@ Contributions are what make open-source great! Here’s how you can help us crea
 1. **Fork the Repository**: Click the fork button in the top right corner of the page.
 2. **Clone Your Fork**: Use the following command to clone your fork:
    ```bash
-   git clone https://github.com/Kunal-Khairnar-05/readme-generator-cli.git
+   git clone https://github.com/Kunal-Khairnar-05/readme-generator-cli
+   ```
+   
 3. **Commit Your Creative Additions**: Add some amazing and cool features in your commit.
 
 ---
