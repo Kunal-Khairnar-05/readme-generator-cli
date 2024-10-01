@@ -50,6 +50,4 @@ Contributions are what make open-source great! Here’s how you can help us crea
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
+# HAPPY CODING 😊
