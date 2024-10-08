@@ -93,7 +93,7 @@ program
   .option('--install <commands>', 'Installation commands', 'npm install')
   .option('--usage <example>', 'Usage example', 'npm start')
   .option('--contributing <guidelines>', 'Contributing guidelines', 'Feel free to submit a pull request!')
-  .option('--badges <badgeList>', 'Comma-separated list of badges', 'Build Status')
+  .option('--badges <badgeList>', 'Comma-separated list of badges', 'BuildStatus')
   .option('--table-of-contents', 'Include a table of contents')
   .action(async (projectName, description, options) => {
     const { license, install, usage, contributing, badges, tableOfContents } = options;
